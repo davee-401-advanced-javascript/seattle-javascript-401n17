@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {ThemeContext} from '../context/theme.js';
+import {ThemeContext} from '../context/theme-context.js';
 import ThemeChanger from './theme-changer.js'
 
 class Content extends React.Component {

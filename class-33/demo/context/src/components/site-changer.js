@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 
-import { SiteContext } from '../context/site.js';
+import { SiteContext } from '../context/site-context.js';
 
 function Changer() {
 

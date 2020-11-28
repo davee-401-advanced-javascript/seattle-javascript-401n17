@@ -1,7 +1,7 @@
 import React, {useContext} from 'react'; // React 17: No longer needed
 
-import {ThemeContext} from '../context/theme.js';
-import {SiteContext} from '../context/site.js';
+import {ThemeContext} from '../context/theme-context.js';
+import {SiteContext} from '../context/site-context.js';
 import ThemeChanger from './theme-changer.js'
 import SiteChanger from './site-changer.js'
 
